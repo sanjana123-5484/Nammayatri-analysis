@@ -69,5 +69,6 @@ This project involved a multi-stage approach, combining **data exploration with 
     *   **Interactive Slicer:** Added a slicer based on `assembly name`, allowing users to dynamically filter all dashboard visuals to view data for specific assembly areas, enhancing interactivity and analytical depth.
     *   **Header & Logo:** Included a professional header with the project title ("Trips Dashboard") and a relevant logo.
 *   **Interactivity & User Experience:** Ensured seamless interaction between all dashboard elements, where selecting a specific assembly from the slicer or the table filters all other charts and cards, providing a dynamic and insightful user experience.
+<img width="951" height="670" alt="image" src="https://github.com/user-attachments/assets/57b72d74-2fa8-4d41-9eb9-982a5f8304da" />
 
 This project demonstrates my comprehensive approach to data analytics, from raw data to an interactive, decision-making dashboard, showcasing skills in both SQL and Power BI.
