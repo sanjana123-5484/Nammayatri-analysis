@@ -1,7 +1,7 @@
 
 # NammaYatri-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/links/H6n_6AVGLe?ctid=3fe70262-d5b2-498a-88dd-214666cd2f73&pbi_source=linkShare
 Certainly! Based on the provided sources, here is a problem statement and the steps followed for your GitHub README file, outlining the Namma Yatri Analytics project:
 
 ***
